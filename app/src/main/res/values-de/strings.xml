@@ -166,7 +166,7 @@
     <string name="pref_filter_search_quality">Ausgewählte Videoqualität bei Suchergebnissen ausblenden</string>
     <string name="automatic_plugin_updates">Automatische Plugin-Updates</string>
     <string name="updates_settings">App-Updates anzeigen</string>
-    <string name="updates_settings_des">Automatisches Suchen nach neuen Updates nach dem Start</string>
+    <string name="updates_settings_des">Automatisches Suchen nach neuen Updates nach dem Start.</string>
     <string name="uprereleases_settings">Auf Vorabversionen updaten</string>
     <string name="uprereleases_settings_des">Suche nach Vorabversionen statt nur nach Vollversionen</string>
     <string name="github">Github</string>
@@ -286,7 +286,7 @@
     <string name="legal_notice">Haftungsausschluss</string>
     <string name="category_general">Allgemein</string>
     <string name="random_button_settings">Zufalls-Button</string>
-    <string name="random_button_settings_desc">Zeigt einen Zufallsbutton auf der Startseite an, mit welchem eine Serie oder ein Film von der Website zufällig ausgewählt wird</string>
+    <string name="random_button_settings_desc">Zeige Zufallsgenerator Schaltfläche auf der Startseite</string>
     <string name="provider_lang_settings">Anbieter-Sprachen</string>
     <string name="app_layout">App-Layout</string>
     <string name="preferred_media_settings">Bevorzugte Medien</string>
@@ -519,7 +519,7 @@
     <string name="start">Start</string>
     <string name="restart">Neustarten</string>
     <string name="watch_quality_pref_data">Bevorzugte Videoqualität (mobile Daten)</string>
-    <string name="jsdelivr_proxy_summary">Umgehung der GitHub Sperre mit jsdelivr. Kann zu einigen Tagen Verzögerung bei Updates führen.</string>
+    <string name="jsdelivr_proxy_summary">Umgehung der GitHub Sperre mit jsdelivr, kann zu einigen Tagen Verzögerung bei Updates führen.</string>
     <string name="subscription_new">%s abonniert</string>
     <string name="subscription_deleted">%s deabonniert</string>
     <string name="subscription_episode_released">Episode %d erschienen!</string>

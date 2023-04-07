@@ -366,7 +366,7 @@
     <string name="player_load_subtitles_online">تحميل من الانترنت</string>
     <string name="downloaded_file">الملف الذي تم تنزيله</string>
     <string name="actor_main">رئيسي</string>
-    <string name="actor_supporting">مساعد</string>
+    <string name="actor_supporting">ممثل مساعد</string>
     <string name="actor_background">الخلفية</string>
     <string name="home_source">مصدر</string>
     <string name="home_random">عشوائي</string>

@@ -493,7 +493,7 @@
     <string name="subtitles_filter_lang">Фильтровать по предпочитаемому языку медиа</string>
     <string name="error_invalid_id">Неверный ID</string>
     <string name="network_adress_example">Ссылка на стрим</string>
-    <string name="random_button_settings_desc">Показывает кнопку на главной странице, с помощью которой можно выбрать случайный фильм или сериал с главной страницы</string>
+    <string name="random_button_settings_desc">Отображать рандомную кнопку на Главной странице</string>
     <string name="random_button_settings">Рандомная кнопка</string>
     <string name="apk_installer_legacy">Legacy (старый)</string>
     <string name="player_settings_play_in_web">Веб видеокаст</string>
